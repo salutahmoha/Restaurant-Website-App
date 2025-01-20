@@ -1,4 +1,4 @@
-/* #Hero {
+#Hero {
   background-image: url("../../assets/RESTAURANT.jpg");
   background-size: cover;
   background-position: center;
@@ -22,4 +22,4 @@
 .hero-content p{
     font-size: 1.3rem;
     color: #f0e8e8;
-} */
+}
