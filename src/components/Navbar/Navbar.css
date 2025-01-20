@@ -1,0 +1,27 @@
+/* #navbar {
+  border: 1px solid black;
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-img {
+  width: 3rem;
+  height: 3rem;
+}
+
+.nav-lists {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  list-style: none;
+}
+
+.nav-lists li {
+  cursor: pointer;
+  font-size: 1.3rem;
+  margin: 0 1rem;
+} */
