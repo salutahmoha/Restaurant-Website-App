@@ -1,0 +1,34 @@
+#about{
+    margin-top: 5rem;
+}
+
+#about h3{
+    text-align: center;
+    font-size: 3rem;
+    padding-bottom: 2rem;
+}
+
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.about-image{
+    width: 45%;
+}
+
+.about-image img{
+    width: 100%;
+    border-radius: .5rem;
+    object-fit: contain;
+}
+
+.about-text{
+    width: 45%;
+}
+
+.about-text p{
+    width: 100%;
+    text-align: justify;
+}
