@@ -1,0 +1,40 @@
+/* 
+
+.form-container {
+  border: 1px solid black;
+  width: 70%;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: rgb(149, 237, 149);
+}
+
+label {
+  font-size: 1.6rem;
+  font-weight: 600;
+  width: 25%;
+  text-align: left;
+}
+
+input {
+  width: 70%;
+  outline: none;
+  border: none;
+  height: 2rem;
+  border-radius: 3px;
+  padding: 0.5rem;
+}
+
+.form-element {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.form-submit {
+  width: 95%;
+  height: 2rem;
+  border: none;
+  font-size: 1.5rem;
+  background: #15c815;
+  cursor: pointer;
+}  */

@@ -1,9 +1,13 @@
-import React from 'react'
-
+import React from "react";
+import Service from "../../components/Service-section/Service";
+import Footer from "../../components/Footer/Footer";
 function Services() {
   return (
-    <div>Services</div>
-  )
+    <div>
+      <Service />
+      <Footer />
+    </div>
+  );
 }
 
-export default Services
+export default Services;

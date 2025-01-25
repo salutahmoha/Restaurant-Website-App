@@ -1,0 +1,38 @@
+/* #service {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+#service h2 {
+  font-size: 2.5rem;
+  padding-bottom: 2rem;
+}
+.service-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  flex-wrap: wrap;
+}
+
+.service-info {
+  border: 1px solid black;
+  width: 20rem;
+  height: 30rem;
+  border-radius: 5px;
+  background: #efeaea;
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.service-info img {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 5px 5px 0 0;
+  object-fit: cover;
+}
+
+.service-details p{
+    text-align: justify;
+    padding: 0 .5rem;
+} */

@@ -7,19 +7,19 @@
   object-fit: contain;
 }
 
-.hero-content{
-    text-align: center;
-    color: white;
-    padding: 10rem 3rem;
+.hero-content {
+  text-align: center;
+  color: white;
+  padding: 10rem 3rem;
 }
 
-.hero-content h2{
-    font-size: 4rem;
-    padding-bottom: 2rem;
-    font-weight: 600;
+.hero-content h2 {
+  font-size: 4rem;
+  padding-bottom: 2rem;
+  font-weight: 600;
 }
 
-.hero-content p{
-    font-size: 1.3rem;
-    color: #f0e8e8;
+.hero-content p {
+  font-size: 1.3rem;
+  color: #f0e8e8;
 }
